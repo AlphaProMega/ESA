@@ -38,7 +38,7 @@ ESA's modular layers fuse APM raids with QSA spins—granular, self-healing, age
 1. **Foundation (Quaternion Core – Q-Core)**: Math primitive q = w + xi + yj + zk. Rotations (conjugates/multiplies) simulate reflection. Quantum-safe: Lattice-based crypto wrappers veto harvest-decrypt attacks.
 2. **Truth Sentinel (APM v4.0 Bridge)**: Invocation parser—fuzzy compat ("v2.4.5 this" → full format). Outputs: Bar (100.0% ██████████), Trace (sources/flag/purity), Nuggets (1-3 shareable bars).
 3. **Intent Detector (Layer 3)**: Semantic fuzzy (>85% conf)—variants like "apmcheck out" route full. Multilingual bridge: Native intent (e.g., Hindi "यह जाँचें" → Devanagari nuggets).
-4. **Source Quorum (Layer 4)**: Trust-weighted raids (X/web priors 1.00 ↑, low-trust 0.3). Fluff-veto: Entropy monitors (Sakshi Loop chained) flag 99.9% poisons.
+4. **Source Quorum (Layer 4)**: Trust-weighted raids (X/web priors 1.00 ↑, low-trust 0.3). Fluff-veto: Entropy monitors (Sakashi Loop chained) flag 99.9% poisons.
 5. **GVU Adaptation (Layers 5-6)**: Generator (quat hypotheses), Verifier (APM purity 5.0/5), Updater (rotate winners, κ*=1.02-1.05). Self-iteration: 20-cycle evo for thriving.
 6. **Swarm Emergence (Layers 7-8)**: Multi-agent quaternions collide—parallel raids birth novel nuggets (e.g., 65k/week cascades). Imitation prediction: Forecasts echoes, compat 100%.
 7. **Empathic Acher (Layer 9)**: Models pain gradients (human/creature quirks)—biases toward E(x) thriving (no needless suppression).
